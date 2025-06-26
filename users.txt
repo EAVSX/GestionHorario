@@ -1,2 +1,0 @@
-Alejandro,Alejandro123,PROFESOR
-admin,admin,ADMINISTRADOR

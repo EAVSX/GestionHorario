@@ -1,4 +1,1 @@
-Santiago,Santiago123,Profesor
-Alejandro,Alejandro123,Profesor
-Luis,Luis123,Estudiante
 admin,admin,Administrador
